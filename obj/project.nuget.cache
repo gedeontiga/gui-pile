@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "ieUs4SKi0HnCwuDgTNRxEkFFLyUrOXtnqjbA2vgksxSSm4yS6LK5aXc0c3CXroRn6RDyP3J2oB1C1BRc2poT7Q==",
+  "success": true,
+  "projectFilePath": "/home/gedeontiga/Documents/App/gui-pile/gui-pile.csproj",
+  "expectedPackageFiles": [
+    "/home/gedeontiga/.nuget/packages/atksharp/3.24.24.95/atksharp.3.24.24.95.nupkg.sha512",
+    "/home/gedeontiga/.nuget/packages/cairosharp/3.24.24.95/cairosharp.3.24.24.95.nupkg.sha512",
+    "/home/gedeontiga/.nuget/packages/gdksharp/3.24.24.95/gdksharp.3.24.24.95.nupkg.sha512",
+    "/home/gedeontiga/.nuget/packages/giosharp/3.24.24.95/giosharp.3.24.24.95.nupkg.sha512",
+    "/home/gedeontiga/.nuget/packages/glibsharp/3.24.24.95/glibsharp.3.24.24.95.nupkg.sha512",
+    "/home/gedeontiga/.nuget/packages/gtksharp/3.24.24.95/gtksharp.3.24.24.95.nupkg.sha512",
+    "/home/gedeontiga/.nuget/packages/pangosharp/3.24.24.95/pangosharp.3.24.24.95.nupkg.sha512"
+  ],
+  "logs": []
+}
